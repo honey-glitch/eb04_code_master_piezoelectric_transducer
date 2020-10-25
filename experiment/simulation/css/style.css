@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+body{
+  color: #000000;
+  text-align: center;
+}
+#simulator{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 225px/*minmax(225px, auto)*/;
+  grid-gap: 5px;
+  max-width: 1100px;
+  margin: 10px auto;
+}
+.one, .two, .three, .four, .five{
+  border: 2px solid black;
+}
+.one{
+    grid-column: 1/3;
+    grid-row: 1/3;
+    display: grid;
+    grid-template-columns: repeat(24, 1fr);
+  }
+
+  
+.one1{
+  /*1phasesupply*/
+  grid-column: 1/8;
+  background-color: white;
+  /*background: white;*/
+}
+.one2{
+  grid-column: 8/10;
+  background-color: white;
+  /*background: white;*/
+} 
+.one3{
+  /*wattmeter*/
+  grid-column: 10/16;
+  background-color: white;
+  /*background: white;*/
+}
+.one4{
+  grid-column: 16/20;
+  background-color: white;
+  /*background: white;*/
+}   
+.one5{
+  grid-column: 20/25;
+  background-color: white;
+  /*background: white;*/
+}
+  
+.two{
+    grid-column: 1/3;
+    grid-row: 3/4;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: minmax(35px, auto);
+    grid-gap: 5px;
+    padding: 5px;
+    font-size: 18px;
+    color: white;
+    background-color: #0a1f44;
+}
+.two p{
+  text-align: left;
+  display:inline-block;
+  padding-top: 12px;
+  padding-left: 5px;
+
+}
+.component_button{
+  color: white; 
+  border-radius:5px;
+  border: 1.5px solid #000000;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  letter-spacing: .01em;
+}
+#b_reset{
+  grid-column: 1/2;
+  grid-row: 1/6;
+  border-radius: 30px;
+  background-color: green;
+}
+#place_equip{
+  grid-column: 2/5;
+  grid-row: 1/2;
+}
+#b_switch{
+  grid-column: 2/3;
+  grid-row: 2/3;
+  background-color: #F4A261;
+}
+#b_ct1{
+  grid-column: 3/4;
+  grid-row: 2/3;
+  background-color: #08a9b4;
+}
+#b_ct2{
+  grid-column: 4/5;
+  grid-row: 2/3;
+  background-color: #db09db;
+}
+#b_loads{
+  grid-column: 4/5;
+  grid-row: 3/4; 
+  background-color:  #9b0505;
+}
+#b_t{
+  grid-column: 3/4;
+  grid-row: 3/4;
+  background-color: goldenrod;
+}
+#connectwires{
+  grid-column: 2/5;
+  grid-row: 3/4;
+}
+#b_wire{
+  grid-column: 2/3;
+  grid-row: 4/5;
+  background-color: #226ad6;
+}
+.three{
+  grid-column: 3/4;
+  grid-row: 1/2;
+  padding: 40px;
+  padding-top: 50px;
+  text-align: left;
+  color: white;
+  background-color: rgb(66, 5, 51);
+  }  
+.four{
+  grid-column: 3/4;
+  grid-row: 2/3;
+  padding: 5px;
+  font-size: 17px; 
+  background: #7CB4B8;
+}
+.four ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+}
+ul li{
+  color: #AAAAAA;
+}
+ul li input[type=radio]{
+  visibility: hidden;
+}
+ul li label{
+  font-weight: 300;
+  font-size: 0.8em;
+  z-index: 9;
+  cursor: pointer;
+  -webkit-transition: all 0.25s linear;
+}
+ul li p{
+  color: #FFFFFF;
+}
+ul label:hover {
+  color: #FFFFFF;
+}
+ul li .check{
+  display: inline-block;
+  border: 3px solid #AAAAAA;
+  border-radius: 100%;
+  height: 5px;
+  width: 5px;
+  z-index: 5;
+  transition: border .25s linear;
+  -webkit-transition: border .25s linear;
+}
+ul label:hover +.check{
+  border: 3px solid #FFFFFF;
+}
+ul li .check::before {
+  content: '';
+  border-radius: 100%;
+  height: 5px;
+  width: 5px;
+  transition: background 0.25s linear;
+  -webkit-transition: background 0.25s linear;
+}
+li.li1 span>input[type=radio]:checked ~ .check {
+  border: 3px solid #0DFF92;
+}
+li.li1 span>input[type=radio]:checked ~ .check::before{
+  background: #0DFF92;
+}
+
+li.li1 span>input[type=radio]:checked + label{
+  color: #0DFF92;
+}
+li.li2 span>input[type=radio]:checked ~ .check {
+  border: 3px solid #0DFF92;
+}
+li.li2 span>input[type=radio]:checked ~ .check::before{
+  background: #0DFF92;
+}
+li.li2 span>input[type=radio]:checked + label{
+  color: #0DFF92;
+}
+li.li3 span>input[type=radio]:checked ~ .check {
+  border: 3px solid #0DFF92;
+}
+li.li3 span>input[type=radio]:checked ~ .check::before{
+  background: #0DFF92;
+}
+li.li3 span>input[type=radio]:checked + label{
+  color: #0DFF92;
+}
+li.li4 span>input[type=radio]:checked ~ .check {
+  border: 3px solid #0DFF92;
+}
+li.li4 span>input[type=radio]:checked ~ .check::before{
+  background: #0DFF92;
+}
+li.li4 span>input[type=radio]:checked + label{
+  color: #0DFF92;
+}
+li.li5 span>input[type=radio]:checked ~ .check {
+  border: 3px solid #0DFF92;
+}
+li.li5 span>input[type=radio]:checked ~ .check::before{
+  background: #0DFF92;
+}
+li.li5 span>input[type=radio]:checked + label{
+  color: #0DFF92;
+}
+.five{
+    grid-column: 3/4;
+    grid-row: 3/4;
+    padding: 8px;
+  }
+#myCanvas{
+  width: 99%;
+  padding:2px;
+  }
+
+
