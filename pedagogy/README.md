@@ -25,11 +25,15 @@ By this experiment we want students to understand the connections of piezoelectr
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-2.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-
+1.| User will be able to:
+Understand the connection of piezoelectric transducer.
+ | Understand| Describe
+2.| User will be able to:
+Calibrate the digital voltmeter to display the applied pressure with the help of amplifier gain control.  
+ | Evaluate | Select
+3.| User will be able to:
+Measure the applied pressure with the help of piezoelectric transducer.
+ |Understand | Describe
 
 <br/>
 <div align="right">
@@ -40,12 +44,12 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+###### Name of Instructional Strategy  :    <u> Expository
+###### Assessment Method: assessment
 
-<u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
+<u> <b>Description: </b> Step by step instructions are provided at each level in the simulator to make it more user friendly. </u>
 <br>
- Brief description as per handout
+ Various runs of the same experiment are possible by changing the different input values of pressure.
 
 <br/>
 <div align="right">
