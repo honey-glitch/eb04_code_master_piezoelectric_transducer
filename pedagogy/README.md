@@ -43,7 +43,8 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b> Step by step instructions are provided at each level in the simulator to make it more user friendly. </u>
 <br>
- Various runs of the same experiment are possible by changing the different input values of pressure.
+u> <b>Scope: </b> Various runs of the same experiment are possible by changing the different input values of pressure. </u>
+
 
 <br/>
 <div align="right">
@@ -60,8 +61,11 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | Type the question that will assess what student has learnt
-2.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
+1.| Understand the connection of piezoelectric transducer  | Students will make connections in the simulator. | 1.How many terminal are present in the piezoelectric transducer?<br>A. one<br>B. two<br>C. six<br>D. five
+2.| Calibrate the digital voltmeter to display the applied pressure with the help of amplifier gain control.   | Student will calibrate the digital voltmeter with the help of amplifier gain control.   | 1.At what value of amplifier gain control the voltmeter is calibrated in this experiment?<br>A. 20<br>B. 30<br>C. 40<br>D. 50
+1.| Measure the applied pressure with the help of piezoelectric transducer  | By selecting the various pressure inputs corresponding value is shown at the digital voltmeter.  |1.What is the unit of pressure observed in this experiment?<br>A. PSI<br>B. Bar<br>C. Atm<br>D. pascal
+ 
+
 
 
 You can add more question. All questions may not be as MCQ
