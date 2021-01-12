@@ -3,16 +3,17 @@
 <b>Discipline | <b> Electrical Engineering/ Electrical and Electronics Engg.
 :--|:--|
 <b> Lab | <b> Electrical Measurements and Instrumentation Lab
-<b> Experiment|     <b> 1. Measurement of power using CT and PT.
+<b> Experiment|     <b> 1. Measuring pressure using piezoelectric pick up.
 
 <h5> About the Lab (Objective) : </h5>
 
 •	To identify and use different types of instruments for measurement. 
-•	To use different types of instrument for the measurement of power in the three phase circuit.
+•	To use transducers for the measurement of physical quantity like pressure.
+•	To understand the transducers circuit and its connection diagram
+
 
 <h5> About the Experiment : </h5>
-
-In this experiment, we will study the connection of Current Transformer (CT), Potential Transformer ( PT) and Wattmeter to measure the power consumed by the load in a 3- Phase circuit.
+ In this experiment, we can measure the pressure applied on a piezoelectric transducer by virtue of piezoelectric effect. According to piezoelectric effect, if we apply pressure on piezoelectric material it generates the voltage accordingly and by calibrating this voltage we can calculate the pressure applied to the material.
 
 <h5> Target Audience : </h5>
 
