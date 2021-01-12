@@ -24,7 +24,7 @@ By this experiment we want students to understand the connections of piezoelectr
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
-:--|:--|:--|:--|:-:
+:--|:--|:--|:-:
 1.| User will be able to:
 Understand the connection of piezoelectric transducer.
  | Understand | Describe
