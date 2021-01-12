@@ -24,10 +24,10 @@ By this experiment we want students to understand the connections of piezoelectr
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
-:--|:--|:--|:-:
+:--|:--|:--|:--|:-:
 1.| User will be able to:
 Understand the connection of piezoelectric transducer.
- | Understand| Describe
+ | Understand | Describe
 2.| User will be able to:
 Calibrate the digital voltmeter to display the applied pressure with the help of amplifier gain control.  
  | Evaluate | Select
