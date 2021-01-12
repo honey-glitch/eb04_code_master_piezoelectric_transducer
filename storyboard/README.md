@@ -1,20 +1,8 @@
 ## Storyboard (Round 2)
 
-Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
-
-Experiment 1: Name of the Experiment
-
-### 1. Story Outline:
-
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
-
-### 2. Story:
-Experiment 1: Measuring Pressure
-Using Piezoelectric Pick up.
-
 <br>
 
-1.Story Outline:
+###1.Story Outline:
 <br>
 
 
@@ -22,10 +10,8 @@ This
 experiment is based on how to measure pressure applied at piezoelectric
 transducer with the help of differential amplifier and digital meter by calibrating
 the gain control knob of amplifier.
-
-
 <br>
-Firstly<br>
+Firstly
 the user will make the proper connection of the piezoelectric transducer,
 differential amplifier and digital meter. After that apply the pressure by
 selecting the different values shown in the input to be measured at
@@ -42,7 +28,7 @@ applied pressure is obtained.
 
 <br>
 
-2.Story:
+###2.Story:
 
 <br>
 
@@ -87,7 +73,7 @@ output is obtained accordingly.
 
 
 
-2.1 Set
+###2.1 Set
 the Visual Stage Description:
 <br>
 
@@ -121,7 +107,7 @@ analog and in digital form.
 
 <br>
 
-Instructions
+###Instructions
 are as follows:
 
 <br>
@@ -356,7 +342,7 @@ NA
 
 
 
-3.Flowchart :
+###3.Flowchart :
 
 
 
@@ -369,7 +355,7 @@ NA
 
 
 
-4.Mindmap:
+###4.Mindmap:
 
 
 
@@ -387,7 +373,7 @@ NA
 
 <br>
 
-5.Storyboard
+###5.Storyboard
 :
 
 
@@ -460,38 +446,3 @@ calibrate the output reading as numerically equal to the applied input pressure.
 
  
 
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
-
-#### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
-
-#### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
-
-#### 2.3 Set the Pathway Activities:
-
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
-
-##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
-
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
-
-##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
-
-##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
-
-##### 2.7 Equations/formulas: NA
-
-
-### 3. Flowchart 4
-<img src="flowchart/flowchart.png"/><br>
-
-### 4. Mindmap:
-<img src="mindmap/mindmap.png"/>
-
-### 5. Storyboard :
-Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
-Link to storybaord (.gif file ) here :
-(guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool) . tutorial on how to use it https://www.youtube.com/watch?v=LAeCEpG0KX4
