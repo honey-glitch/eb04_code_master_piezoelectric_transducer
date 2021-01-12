@@ -1,1 +1,1 @@
-### Lab Name
+### Electrical Measurements and Instrumentation Lab
