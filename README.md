@@ -349,19 +349,12 @@ NA
 
 
 
+<img src="flowchart/flowchart.png"/> <br>
 
  
 
 
 
-
-Link to flow chart Here : Store in the
-/flowchart folder within Round2 folder in your repo
-
-(guide :The lab proposer should extract logic
-from the story, prepare a flowchart from the story narration and write the
-algorithm to execute the black box. use Google Drawings https://docs.google.com/drawings/ (send the link to your flowchart and also attach .png by exporting
-it )
 
 
 
@@ -375,21 +368,11 @@ it )
 
 
 
+
  
 
 <br>
-
-Link to mindmap here : Store the mindmap in
-both .mm & .png extension in the /mindmap folder and include link of only
-.pdf verison here
-
-(guide : An elaborate mind map (connecting all
-the points in the experiment flow ) should be prepared and submitted by the lab
-proposer. The mind map should be a clear and detailed document that takes into
-account all minute intri5acies involved in the development of virtual lab. The
-mindmap should be self-content and any developer across the globe should be
-able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project
-file. )
+<img src="mindmap/mindmap.png"/> <br>
 
 <br>
 
@@ -402,16 +385,13 @@ file. )
 
 
 
-Link to storybaord (.gif file ) here : (guide:
-This document should include sketching and description scene wise (duration,
-action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool) . tutorial on how to use it https://www.youtube.com/watch?v=LAeCEpG0KX4
 
 
 
 Step
 1. User will click on the simulation tab then designed simulator opens up.
 <br>
-
+<img src="images/step 1.png"/> <br>
 
 
  
@@ -423,7 +403,7 @@ Step
 2. Switch on the simulator switch shown in the equipment area and start
 connecting the equipment and wires according to the instruction displayed in
 the instruction area.
-
+<img src="images/step 2.png"/> <br>
 
 <br>
 
@@ -440,7 +420,7 @@ Step 3.  Switch ON the supply of the circuit from input
 switch area and apply the input pressure and then see the output in the output
 window.
 
-
+<img src="images/step 3.png"/> <br>
 
 
  
@@ -455,7 +435,7 @@ window.
 Step 4. Then with the help of gain control knob (shown by arrow)
 calibrate the output reading as numerically equal to the applied input pressure.
 <br>
-
+<img src="images/step 4.png"/> <br>
 
 
  
