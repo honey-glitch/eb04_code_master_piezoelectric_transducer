@@ -2,44 +2,44 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
+			"Experiment": "Measurement of Power using CT and PT.",     
+			"Lab": "Electrical engineering lab",               
+			"Discipline": "Electrical engineering",				 
 			"Technology": ""         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": "Sachin Singh",         
+      "Institute": "Institute of Engineering and Technology, Lucknow",         
+      "InstituteAcronym": "IET Lucknow"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Ashish Kumar Mishra",             
+      "Institute": "Institute of Engineering and Technology, Lucknow",               
+			"InstituteAcronym": "IET Lucknow"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Prabhav Garg",              
+      "Institute": "Institute of Engineering and Technology, Lucknow",               
+			"InstituteAcronym": "IET Lucknow"         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Dheeraj Mauya",             
+      "Institute": "Institute of Engineering and Technology, Lucknow",               
+			"InstituteAcronym": "IET Lucknow"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Indra Singh",              
+      "Institute": "Institute of Engineering and Technology, Lucknow",               
+			"InstituteAcronym": "IET Lucknow"         
        }
    ]
 
