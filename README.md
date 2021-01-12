@@ -238,13 +238,10 @@ Challenges and Questions/Complexity/Variations in Questions:
 1.     .How many terminal are
 present in the piezoelectric transducer?
 
-<br>
 
 2.     How to calibrate the
 Differential Amplifier Gain to obtained the exact applied pressure to the
 piezoelectric transducer?
-
-<br>
 
 3.     At what value of amplifier
 gain control the voltmeter is calibrated in this experiment?
@@ -253,24 +250,21 @@ gain control the voltmeter is calibrated in this experiment?
 
 A. 20
 
-<br>
 
 B. 30
 
 
-<br>
 C. 40
 
-<br>
 
 D. 50
 
-<br>
+
+ <br>
 
 4.     What is the unit of
 pressure observed in this experiment?
 
-<br>
 
 A.    
    PSI
@@ -347,8 +341,6 @@ NA
  
  
  
-
- <br>
 
 
 
