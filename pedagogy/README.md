@@ -1,16 +1,13 @@
 ## Pedagogy (Round 1)
 <p align="center">
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
-<br>
-<b> Experiment ABCDEF Lab  <a name="top"></a> <br>
+<b> Experiment Electrical Measurements and Instrumentation Lab  <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
-:--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. Name of the experiment
+<b>Discipline | <b>Electrical Engineering/ Electrical and Electronics Engg.
+<b> Lab | Electrical Measurements and Instrumentation Lab
+<b> Experiment|     <b> 1.Measuring Pressure Using Piezoelectric Pick up.
 
 
 <h4> [1. Focus Area](#LO)
@@ -21,8 +18,8 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Name of the Focus area as per handout
-
+#### 1. Focus Area : Instrumentation and Practical Skills
+By this experiment we want students to understand the connections of piezoelectric transducer and how it is measuring pressure applied at its input then how it passed to instrumentation differential amplifier to produced the output in the form of electrical signals.
 #### 2. Learning Objectives and Cognitive Level
 
 
@@ -90,7 +87,8 @@ or type the correct answer below the question.
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-2.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-3.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-4.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+1.| Student click on the simulation tab | Simulator screen of the experiment will open up  | To open the screen for performing the experiment.
+2.| Draw the circuit diagram according to the circuit provided in the theoretical part by using the different blocks of instrument | Circuit is drawn accordingly in the simulator and input switch to apply the pressure is activated  | Circuit diagram is formed for which student have to provide  input to calculate the pressure in terms of voltage.
+3.| Then student will select the various input pressure values. | According to the selected input output is shown on the digital voltmeter.  | To calculate the pressure by using the pressure transducer.
+4.| Now the student will set the amplifier gain control in such a way that the output displayed is same as the input value. | Gain control knob is shown and selected and output value on the digital meter is displayed accordingly.  | Exact value of input pressure is shown as output in the digital meter.
+5.| Then again student will select the various input pressure values. | Digital Voltmeter will show the voltage numerically equal to the selected input pressure  |To calculate the pressure by using the pressure transducer.
