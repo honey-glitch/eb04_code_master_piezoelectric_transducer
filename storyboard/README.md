@@ -2,7 +2,7 @@
 
 <br>
 
-###1.Story Outline:
+### 1. Story Outline:
 <br>
 
 
@@ -28,7 +28,8 @@ applied pressure is obtained.
 
 <br>
 
-###2.Story:
+
+### 2. Story:
 
 <br>
 
@@ -72,9 +73,7 @@ output is obtained accordingly.
  
 
 
-
-###2.1 Set
-the Visual Stage Description:
+#### 2.1 Set the Visual Stage Description:
 <br>
 
 
@@ -107,7 +106,7 @@ analog and in digital form.
 
 <br>
 
-###Instructions
+Instructions
 are as follows:
 
 <br>
@@ -147,9 +146,7 @@ Step
 input applied pressure.
 
 <br>
-
-2.2 Set
-User Objectives & Goals:
+#### 2.2 Set User Objectives & Goals:
 
 <br>
 
@@ -175,8 +172,7 @@ with the help of piezoelectric transducer.
 
 <br>
 
-2.3 Set
-the Pathway Activities:
+#### 2.3 Set the Pathway Activities:
 <br>
 
 
@@ -227,8 +223,7 @@ numerically equal to the applied input pressure.
 
 <br>
 
-2.4 Set
-Challenges and Questions/Complexity/Variations in Questions:
+##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
 
 <br>
@@ -285,8 +280,7 @@ pascal
 
 
 
-2.5Allow<br>
-pitfalls:
+##### 2.5 Allow pitfalls:
 
 
 
@@ -295,8 +289,7 @@ i.e not according to the instructions. He will get a bottom up message on the
 tab to make it right along with the instructions.  
 
 <br>
-
-2.6 Conclusion:
+##### 2.6 Conclusion:
 <br>
 
 
@@ -315,8 +308,7 @@ like how to make connection and how to measure the applied input pressure  is ac
 
 <br>
 
-2.7 Equations/formulas:
-NA
+##### 2.7 Equations/formulas: NA
 
 
 
@@ -342,7 +334,7 @@ NA
 
 
 
-###3.Flowchart :
+### 3. Flowchart 4
 
 
 
@@ -355,7 +347,8 @@ NA
 
 
 
-###4.Mindmap:
+
+### 4. Mindmap:
 
 
 
@@ -373,9 +366,7 @@ NA
 
 <br>
 
-###5.Storyboard
-:
-
+### 5. Storyboard :
 
 
  
