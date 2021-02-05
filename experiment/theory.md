@@ -15,4 +15,7 @@ Circuit diagram shown below is the steps of measurement of pressure using piezoe
 circuit firstly the known pressure is applied to piezoelectric transducer and output is shown in the digital
 multimeter through the differential amplifier. Then calibration of digital multimeter is done with the help 
 of gain control knob of differential amplifier so that it can show the output numerically equal to the input 
-pressure. Once the calibration is done then user can easily get the value of applied pressure.
+pressure. Once the calibration is done then user can easily get the value of applied pressure.<br><br>
+<b>Circuit Diagram</b><br>
+<img src="images/Piezoelectric Transducer Ckt Diagram (1).jpg"><br>
+
