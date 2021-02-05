@@ -2,7 +2,7 @@
 <p align="center">
 <br>
 <br>
-<b> Experiment Electrical Measurements and Instrumentation Lab  <a name="top"></a> <br>
+<b>Electrical Measurements and Instrumentation Lab  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Electrical Engineering/ Electrical and Electronics Engg.
