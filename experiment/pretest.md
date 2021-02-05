@@ -1,32 +1,24 @@
-## <b> Pre-test
+## Pre-test
 #### Please attempt the following questions
 
-1) Interference occurs due to _______ of the light.<br>
-<b>a) Wave nature<br></b>
-b) particle nature<br>
-c) both a and b<br>
-d) none of these<br>
+Q1. What is differential pressure?<br> 
+a.	Pressure between two points.<br>
+b.	Pressure  difference between reference point and measured point.<br>
+c.	Pressure  difference between two points in different frame.<br>
+d.	Pressure  at any point.<br><br>
+Q2. Give SI units of pressure?<br>
+a.	Bar<br>
+b.	Pascal<br>
+c.	Atm<br>
+d.	PSI<br><br>
+Q3. What is Piezoelectric transducer?<br>
+a.	Pressure is applied to piezoelectric material then corresponding voltage is produced.<br>
+b.	voltage is applied to piezoelectric material then corresponding pressure is produced.<br>
+c.	voltage is applied to piezoelectric material then corresponding pressure is produced.<br>
+d.	Force is to any material then voltage or current is produced.<br><br>
+Q4.  Piezoelectric transducer is used for measuring <br>
+a. non-electrical quantities<br>
+b. electrical quantities<br>
+c. chemical quantities<br>
+d. any quantity<br>
 
-2) Superposition of crest over crest results in __________ .<br>
-a) Destructive interference<br>
-<b> b) Constructive interference<br></b>
-c) Diffraction<br>
-d) Polarization<br>
-
-3) If two waves with amplitude (y1) and (y2) travelling in the same medium reach at a point in the medium, then the resultant displacement at that point in the medium, will be given by __________ .<br>
-a) y1 -y2<br>
-<b>b) y1 + y2<br></b>
-c) y1 / y2<br>
-d) y1 * y2<br>
-
-4) The condition for destructive interference is: the path difference should be equal to __________. <br>
-<b>a) Odd integral multiple of wavelength<br></b>
-b) Integral multiple of wavelength<br>
-c) Odd integral multiple of half wavelength<br>
-d) Integral multiple of half wavelength<br>
-
-5) In Newton's ring experiment, the diameter of the dark rings is proportional to __________ .<br>
-a) Odd natural numbers<br>
-b) Even natural numbers<br>
-c) Complex numbers<br>
-<b>d) square root of natural numbers<br></b>
