@@ -1,6 +1,6 @@
 ## Post test
 #### Please attempt the following questions
-<br>
+
 Q1. Why the differential amplifier is used in the piezoelectric transducer circuit for pressure measurement?<br>
 a.	To amplify the difference in the pressure applied and referenced pressure.<br>
 b.	To show the difference as output.<br>
