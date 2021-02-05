@@ -1,32 +1,23 @@
 ## Post test
 <br>
-Q 1. What will happen, if the glass plate is replaced with plane mirror?<br>
-<b>a. There will be no interference fringe<br></b>
-b. There will be interference fringe<br>
-c. colored fringes will be observed<br>
-d. None of the options<br><br>
+Q1. Why the differential amplifier is used in the piezoelectric transducer circuit for pressure measurement?
+a.	To amplify the difference in the pressure applied and referenced pressure.
+b.	To show the difference as output.
+c.	To amplify the output as voltage or current.
+d.	To amplify the applied pressure.
+Q2. What is the use of amplifier gain control knob  in the simulator?
+a.	To control the gain and show the output.
+b.	Selection of proper gain show the output result as applied corresponding to input.
+c.	To amplify the output as voltage or current.
+d.	To amplify the applied pressure.
+Q3. For what value of maximum pressure the simulator is designed?
+a.	100 PSI
+b.	150 PSI
+c.	80 PSI
+d.	110 PSI
+Q4. At what value of gain (in dB) the multimeter is calibrated?
+a.	20dB
+b.	30dB
+c.	40dB
+d.	50dB
 
-Q 2. What will happen, if sodium light is replaced with white light?<br>
-a. There will be no interference fringe<br>
-b. There will be interference fringe<br>
-<b>c. colored fringes will be observed<br></b>
-d. No change in pattern is visible<br>
-
-Q 3. What will appear, if in place of lens, a plane glass making some angle with the glass stripe  is used?<br>
-<b>a. Alternate dark and bright fringes in shape of a straight line.<br></b>
-b. triangular interference pattern<br>
-c. colored fringes will be observed<br>
-d. No change in pattern is visible<br>
-
-Q 4. Colours observed in thin film are because of ________________<br>
-a. Diffraction<br>
-<b>b. Interference<br></b>
-c. Polarization<br>
-d. None of the options<br>
-
-Q 5.  In Newton’s rings experiment, rings are formed when the light is ________________ by
-lower surface of the lens and upper surface of the glass plate, interfere.<br>
-a. Reflected<br>
-<b>b. Refracted<br></b>
-c. Transmitted<br>
-d. None<br></b>
