@@ -1,13 +1,14 @@
 ## Pedagogy (Round 1)
 <p align="center">
-
+<br>
 <br>
 <b> Experiment Electrical Measurements and Instrumentation Lab  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Electrical Engineering/ Electrical and Electronics Engg.
-<b> Lab | Electrical Measurements and Instrumentation Lab
-<b> Experiment|     <b> 1.Measuring Pressure Using Piezoelectric Pick up.
+:--|:--|
+<b> Lab | <b>Electrical Measurements and Instrumentation Lab
+<b> Experiment|     <b> Measuring Pressure Using Piezoelectric Pick up.
 
 
 <h4> [1. Focus Area](#LO)
@@ -43,7 +44,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b> Step by step instructions are provided at each level in the simulator to make it more user friendly. </u>
 <br>
-u> <b>Scope: </b> Various runs of the same experiment are possible by changing the different input values of pressure. </u>
+<u> <b>Scope: </b> Various runs of the same experiment are possible by changing the different input values of pressure. </u>
 
 
 <br/>
@@ -66,15 +67,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 1.| Measure the applied pressure with the help of piezoelectric transducer  | By selecting the various pressure inputs corresponding value is shown at the digital voltmeter.  |1.What is the unit of pressure observed in this experiment?<br>A. PSI<br>B. Bar<br>C. Atm<br>D. pascal
  
 
-
-
-You can add more question. All questions may not be as MCQ
-Please add the correct answer as well.
-or type the correct answer below the question.
-
  <br>
-
- <u> You can add additional TASKS & Assessment Questions <u>
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
