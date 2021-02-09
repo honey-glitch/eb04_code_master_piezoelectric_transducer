@@ -90,28 +90,47 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Why the differential amplifier is used in the piezoelectric transducer circuit for pressure measurement?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "To amplify the difference in the pressure applied and referenced pressure.",                  ///// Write the option 1 inside double quotes
+        b: "To show the difference as output.",                  ///// Write the option 2 inside double quotes
+        c: "To amplify the output as voltage or current.",                  ///// Write the option 3 inside double quotes
+        d: "To amplify the applied pressure."                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "What is the use of amplifier gain control knob in the simulator?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "To control the gain and show the output.",                  ///// Write the option 1 inside double quotes
+        b: "Selection of proper gain show the output result as applied corresponding to input.",                  ///// Write the option 2 inside double quotes
+        c: "To amplify the output as voltage or current.",                  ///// Write the option 3 inside double quotes
+        d: "To amplify the applied pressure."                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
-
+    {
+      question: "For what value of maximum pressure the simulator is designed?",  ///// Write the question inside double quotes
+      answers: {
+        a: "100 PSI",                  ///// Write the option 1 inside double quotes
+        b: "150 PSI",                  ///// Write the option 2 inside double quotes
+        c: "80 PSI",                  ///// Write the option 3 inside double quotes
+        d: "110 PSI"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },
+    {
+      question: "At what value of gain (in dB) the multimeter is calibrated?",  ///// Write the question inside double quotes
+      answers: {
+        a: "20dB",                  ///// Write the option 1 inside double quotes
+        b: "30dB",                  ///// Write the option 2 inside double quotes
+        c: "40dB",                  ///// Write the option 3 inside double quotes
+        d: "50dB"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
+    },    
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
