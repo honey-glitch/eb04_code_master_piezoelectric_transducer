@@ -90,28 +90,49 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "What is differential pressure?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Pressure between two points.",                  ///// Write the option 1 inside double quotes
+        b: "Pressure difference between reference point and measured point.",                  ///// Write the option 2 inside double quotes
+        c: "Pressure difference between two points in different frame.",                  ///// Write the option 3 inside double quotes
+        d: "Pressure at any point."                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "Give SI units of pressure?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Bar",                  ///// Write the option 1 inside double quotes
+        b: "Pascal",                  ///// Write the option 2 inside double quotes
+        c: "Atm",                  ///// Write the option 3 inside double quotes
+        d: "PSI"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
-
+  
+    {
+     question: "What is Piezoelectric transducer?",  ///// Write the question inside double quotes
+      answers: {
+        a: "Pressure is applied to piezoelectric material then corresponding voltage is produced.",                  ///// Write the option 1 inside double quotes
+        b: "voltage is applied to piezoelectric material then corresponding pressure is produced.",                  ///// Write the option 2 inside double quotes
+        c: "voltage is applied to piezoelectric material then corresponding pressure is produced.",                  ///// Write the option 3 inside double quotes
+        d: "Force is to any material then voltage or current is produced."                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
+    },///// this line
+{
+     question: "Piezoelectric transducer is used for measuring",  ///// Write the question inside double quotes
+      answers: {
+        a: "non-electrical quantities",                  ///// Write the option 1 inside double quotes
+        b: "electrical quantities",                  ///// Write the option 2 inside double quotes
+        c: "chemical quantities",                  ///// Write the option 3 inside double quotes
+        d: "any quantity"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    }, 
+  
+     
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
